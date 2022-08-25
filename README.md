@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello and welcome!! 👋
 
-<!--
-**andrewbartnik/andrewbartnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrew! I'm an aspiring Data Scientist currently enrolled in the Masters of Environmental Data Science program at the University of California, Santa Barbara. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am particularly interested in using machine learning techniques to understand macro scale processes
+
+
+Website 💻 [andrewbartnik] (https://andrewbartnik.github.io/bartniksite/) 
+LinkedIn : [andrewbartnik](https://www.linkedin.com/in/andrewbartnik/) 
+iNaturalist 🐊 [everest4] (https://www.inaturalist.org/people/everest4)
+
+
 -->
