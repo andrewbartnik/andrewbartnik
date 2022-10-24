@@ -14,7 +14,7 @@ I grew up in Melbourne, Australia, where I fell in love with the natural world. 
 
 
 
-Website 💻 [andrew_bartnik](https://andrewbartnik.github.io/andrew_bartnik/) 
+Website 💻 [andrew_bartnik](https://andrewbartnik.github.io/) 
 
 
 LinkedIn : [andrewbartnik](https://www.linkedin.com/in/andrewbartnik/) 
